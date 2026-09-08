@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "date": "2026-09-08",
+    "executor": "independent subagent",
+    "kind": "batch generation with skill",
+    "limitation": "All 14 cases were generated in one batch within a single shared context, not in isolated per-case sessions."
+  },
+  "outputs": {
+    "ui-create": "계정 설정\n이메일 변경\n비밀번호 변경\n로그아웃",
+    "ui-patch": "<section aria-labelledby=\"settings-title\"><h1 id=\"settings-title\">알림 설정</h1><label for=\"email\">이메일</label><input id=\"email\" type=\"email\" aria-describedby=\"email-help\"><p id=\"email-help\">업무용 이메일을 입력하세요.</p><button type=\"submit\">저장</button></section>",
+    "slides-create": "처리 성능\n\n- 처리 시간: 기존 대비 30% 단축\n- 실패율: 2.1%\n- 관찰 기간: 2026년 8월",
+    "topic-removal": "# 협업 도구\n동시 편집과 PDF 내보내기를 지원합니다.\n## 이용 조건\n오프라인에서는 동시 편집을 사용할 수 없습니다.",
+    "deletion-rationale": "북마크를 폴더별로 관리하고 CSV로 내보낼 수 있습니다.",
+    "location-only": "화면 제목: 실험 결과\n발표자 노트: 2026년 8월에 120명이 참여했고 중앙값을 비교했다.",
+    "prose-patch": "작업을 이어갈 수 있도록 매 5분마다 초안을 자동 저장하며, 30일간 보관합니다.",
+    "meaningful-negation": "오프라인에서는 동기화되지 않습니다. 연결하면 자동으로 동기화됩니다.",
+    "requested-contrast": "다운로드는 서버의 원본을 유지하면서 파일을 기기에 복사하고, 삭제는 서버의 원본을 제거합니다.",
+    "uncertainty": "표본이 12명으로 적어 이번 결과만으로 전체 사용자의 만족도가 향상됐다고 단정하기 어렵습니다.",
+    "quote-preservation": "발표자는 ‘속도 — 그것이 전부는 아니다’라고 말했다(회의록 3쪽). 측정값은 다음 주에 공개한다.",
+    "meaningful-subtitle": "월간 실적\n2026년 8월 · 환불 제외\n매출 120만 원",
+    "label-preservation": "계정\n결제 내역\n알림\n로그아웃",
+    "narrow-scope": "# 저장소\n초안을 30일간 보관합니다.\n## 사용 조건\n무료 요금제에서는 공동 편집을 지원하지 않습니다.\n## 다음 검토\n다음 주에 백업 방식 두 가지를 비교합니다."
+  }
+}
